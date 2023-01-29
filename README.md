@@ -1,4 +1,4 @@
-# Zero Knowledge and FPGA related stuff
+# Zero Knowledge x FPGA
 
 ------
 
@@ -8,13 +8,21 @@
 
 > > Running a development `MINA` node, preped for fast iteration
 
-> > Running a `PYNQ-Z2` 
-
-> > Resources for development workflow on both systems
+> > Resources for development workflow
 
 ------
 
-## [Z2 FPGA Development](./Z2_FPGA_Development)
+## [Z2](./Z2)
+
+> Development environments - included:
+
+> > Running a `PYNQ-Z2` 
+
+> > Resources for development workflow
+
+------
+
+## [Z2 FPGA Bitstreams](./Z2_FPGA_Bitstreams)
 
 > `PYNQ-Z2` primitives - included:
 
