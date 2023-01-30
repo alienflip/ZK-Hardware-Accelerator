@@ -50,9 +50,3 @@ sudo docker rmi -f <IMAGE ID>
 ## [msm.py](./msm.py)
 
 > Exploration in Multi Scalar Multiplication (Multi Exponentiation)
-
---------
-
-## Further work here
-
-> exploration in the Finite Field Fast Fourier Transform

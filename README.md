@@ -2,17 +2,18 @@
 
 ------
 
-## [MINA](./MINA)
+## [Filecoin](./Filecoin)
 
 > Development environments - included:
 
-> > Running a development `MINA` node, preped for fast iteration
+> > Running a development `Filecoin` node, preped for fast iteration
 
 > > Resources for development workflow
 
 ------
 
-## [Z2](./Z2)
+
+## [Z2](./Z2_Workflow/)
 
 > Development environments - included:
 
@@ -43,8 +44,6 @@
 > > `fast fourier transform`
 
 > > `multi-scalar exponentiation`
-
-> > > System design execution plan
 
 ------
 ------

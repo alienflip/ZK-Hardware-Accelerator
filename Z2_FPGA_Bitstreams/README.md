@@ -27,9 +27,3 @@ OUT = AB
 ```
 OUT = [exp(A[i]) for i in range(len(A))]
 ```
-
-----------------
-
-## Further work here
-
-> Optimisations in the `.cpp` files, which would require some deeper dives into the Xilinx docs, or even a re-write with pure `VDHL`
