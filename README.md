@@ -2,17 +2,6 @@
 
 ------
 
-## [Filecoin](./Filecoin)
-
-> Development environments - included:
-
-> > Running a development `Filecoin` node, preped for fast iteration
-
-> > Resources for development workflow
-
-------
-
-
 ## [Z2](./Z2_Workflow/)
 
 > Development environments - included:
